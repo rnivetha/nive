@@ -3,9 +3,9 @@
 void main()
 {
 int n;
-printf("enter the num",n);
+printf("enter the num");
 scanf(%d,&n);
-if(n>o)
+if(n>0)
 {
 printf("num is positive");
 else
